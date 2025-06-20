@@ -1,0 +1,912 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\interfaces\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\interfaces\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\friends\\queries\\getfriends\\getfriendsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\friends\\queries\\getfriends\\getfriendsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\friends\\queries\\getfriends\\getfriendsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\friends\\queries\\getfriends\\getfriendsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\interfaces\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\interfaces\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\interfaces\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\interfaces\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\messager\\commands\\sendmessage\\sendmessagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\messager\\commands\\sendmessage\\sendmessagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\messager\\commands\\sendmessage\\sendmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\messager\\commands\\sendmessage\\sendmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\auth\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\auth\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\auth\\queries\\login\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\auth\\queries\\login\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\features\\auth\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\features\\auth\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\entities\\messager\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\entities\\messager\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\entities\\messager\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\entities\\messager\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\common\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\common\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\common\\interfaces\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\common\\interfaces\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F223AB-B4C5-467D-8D5F-056CA6593FCC}|Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.infrastructur\\services\\friendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F223AB-B4C5-467D-8D5F-056CA6593FCC}|Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj|solutionrelative:infrastructure\\socialnetwork309.infrastructur\\services\\friendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\configuration\\chatconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\configuration\\chatconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250620160936_init1337.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250620160936_init1337.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2573F-D925-473B-BD6A-56C02DBED6F5}|Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj|solutionrelative:core\\socialnetwork309.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SocialNetworkDB_309/True/SqlTable/dbo.Messages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SocialNetworkDB_309/True/SqlTable/dbo.Chats.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\views\\chats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\views\\chats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\models\\auth\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\models\\auth\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F223AB-B4C5-467D-8D5F-056CA6593FCC}|Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.infrastructur\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F223AB-B4C5-467D-8D5F-056CA6593FCC}|Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj|solutionrelative:infrastructure\\socialnetwork309.infrastructur\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082208_UpdateChats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\configuration\\messageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\configuration\\messageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F223AB-B4C5-467D-8D5F-056CA6593FCC}|Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.infrastructur\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F223AB-B4C5-467D-8D5F-056CA6593FCC}|Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj|solutionrelative:infrastructure\\socialnetwork309.infrastructur\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\socialnetwork309.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\socialnetwork309.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\core\\socialnetwork309.application\\interfaces\\services\\ifriendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81191C83-F402-4311-AE55-CA184E0DAEF5}|Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj|solutionrelative:core\\socialnetwork309.application\\interfaces\\services\\ifriendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531073634_ADDChats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531071720_ADDChats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\migrations\\entities\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\migrations\\entities\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070654_ADDChats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070510_ADDChats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\socialnetwork309.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\socialnetwork309.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\migrations\\20250516063405_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\migrations\\20250516063405_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\socialnetwork309\\models\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25BFBA-8317-443F-ACD2-700125F45C35}|SocialNetwork309\\SocialNetwork309.csproj|solutionrelative:socialnetwork309\\models\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|c:\\users\\hum\\downloads\\socialnetwork309 averk\\socialnetwork309\\socialnetwork309\\infrastructure\\socialnetwork309.persistence\\migrations\\20250531082318_updatechats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA4844-40DD-42A4-8AF0-3331F39E944C}|Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj|solutionrelative:infrastructure\\socialnetwork309.persistence\\migrations\\20250531082318_updatechats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendMessageCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommandHandler.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:41:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetFriendsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQuery.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQuery.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:37:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetFriendsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQueryHandler.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Friends\\Queries\\GetFriends\\GetFriendsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:37:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SendMessageCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommand.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommand.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommand.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Messager\\Commands\\SendMessage\\SendMessageCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:39:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IChatRepository.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:42:44.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:10:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:44:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Interfaces\\Repositories\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:42:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:41:31.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:41:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:10:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:41:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Common\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Common\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:35:42.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Common\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Common\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Common\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Common\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:08:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:36:13.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Entities\\Messager\\Message.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Entities\\Messager\\Message.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Entities\\Messager\\Message.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Entities\\Messager\\Message.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:41:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Entities\\Messager\\Chat.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Entities\\Messager\\Chat.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Entities\\Messager\\Chat.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Entities\\Messager\\Chat.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:42:05.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:41:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:20:52.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IAuditableEntity.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Common\\Interfaces\\IAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:20:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:20:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:22:58.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:52:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "SocialNetwork309\\Controllers\\ChatsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:02:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250620160936_init1337.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250620160936_init1337.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250620160936_init1337.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250620160936_init1337.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250620160936_init1337.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:09:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:22:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Configuration\\ChatConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Configuration\\ChatConfiguration.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Configuration\\ChatConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Configuration\\ChatConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:18:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:09:02.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FriendService.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\Services\\FriendService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Infrastructur\\Services\\FriendService.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\Services\\FriendService.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Infrastructur\\Services\\FriendService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:38:51.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Views\\Chats\\Index.cshtml",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Views\\Chats\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Views\\Chats\\Index.cshtml",
+              "RelativeToolTip": "SocialNetwork309\\Views\\Chats\\Index.cshtml",
+              "ViewState": "AgIAALoBAAAAAAAAAAAiwMIBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T08:25:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Messages.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SocialNetworkDB_309/True/SqlTable/dbo.Messages.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SocialNetworkDB_309/True/SqlTable/dbo.Messages.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-31T08:51:05.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Infrastructur\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Infrastructur\\Services\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:28:10.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SocialNetwork309\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:41:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:42:14.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Program.cs",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Program.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Program.cs",
+              "RelativeToolTip": "SocialNetwork309\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:28:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialNetwork309\\appsettings.json",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\appsettings.json",
+              "RelativeToolTip": "SocialNetwork309\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T07:17:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Chats.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SocialNetworkDB_309/True/SqlTable/dbo.Chats.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SocialNetworkDB_309/True/SqlTable/dbo.Chats.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-31T08:50:17.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Models\\Auth\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Models\\Auth\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Models\\Auth\\RegisterViewModel.cs",
+              "RelativeToolTip": "SocialNetwork309\\Models\\Auth\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:42:15.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250531082208_UpdateChats.cs",
+              "DocumentMoniker": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082208_UpdateChats.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082208_UpdateChats.cs",
+              "ToolTip": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082208_UpdateChats.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082208_UpdateChats.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:22:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250531082318_UpdateChats.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082318_UpdateChats.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082318_UpdateChats.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082318_UpdateChats.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531082318_UpdateChats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:23:18.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MessageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Configuration\\MessageConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Configuration\\MessageConfiguration.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Configuration\\MessageConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Configuration\\MessageConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:19:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SocialNetwork309.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T07:18:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IFriendService.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Services\\IFriendService.cs",
+              "RelativeDocumentMoniker": "Core\\SocialNetwork309.Application\\Interfaces\\Services\\IFriendService.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Core\\SocialNetwork309.Application\\Interfaces\\Services\\IFriendService.cs",
+              "RelativeToolTip": "Core\\SocialNetwork309.Application\\Interfaces\\Services\\IFriendService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:45:58.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Infrastructur\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Infrastructur\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:01:41.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:50:14.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250531073634_ADDChats.cs",
+              "DocumentMoniker": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531073634_ADDChats.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531073634_ADDChats.cs",
+              "ToolTip": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531073634_ADDChats.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531073634_ADDChats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:36:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250531071720_ADDChats.cs",
+              "DocumentMoniker": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531071720_ADDChats.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531071720_ADDChats.cs",
+              "ToolTip": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531071720_ADDChats.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531071720_ADDChats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:17:20.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250531070654_ADDChats.cs",
+              "DocumentMoniker": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070654_ADDChats.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070654_ADDChats.cs",
+              "ToolTip": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070654_ADDChats.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070654_ADDChats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:06:54.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Friend.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\Entities\\Friend.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\Entities\\Friend.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\Entities\\Friend.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\Entities\\Friend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:52:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250531070510_ADDChats.cs",
+              "DocumentMoniker": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070510_ADDChats.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070510_ADDChats.cs",
+              "ToolTip": "C:\\Users\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070510_ADDChats.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\avery\\Downloads\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250531070510_ADDChats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:05:10.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SocialNetwork309.csproj",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309.csproj",
+              "RelativeDocumentMoniker": "SocialNetwork309\\SocialNetwork309.csproj",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309.csproj",
+              "RelativeToolTip": "SocialNetwork309\\SocialNetwork309.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T06:57:05.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250516063405_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250516063405_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250516063405_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250516063405_AddIdentity.cs",
+              "RelativeToolTip": "Infrastructure\\SocialNetwork309.Persistence\\Migrations\\20250516063405_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:28:42.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SocialNetwork309\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:23:09.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Models\\Auth\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SocialNetwork309\\Models\\Auth\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\hum\\Downloads\\SocialNetwork309 AVERK\\SocialNetwork309\\SocialNetwork309\\SocialNetwork309\\Models\\Auth\\LoginViewModel.cs",
+              "RelativeToolTip": "SocialNetwork309\\Models\\Auth\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:44:26.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
